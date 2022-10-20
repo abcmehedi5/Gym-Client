@@ -1,0 +1,22 @@
+.treningCard {
+    position: relative;
+}
+
+@media only screen and (max-width: 600px) {
+    .treningCard {
+        position: relative;
+        margin-top: 35px;
+    }
+}
+
+.treningCard img {
+    height: 300px;
+    width: 500px;
+}
+
+.treningTitle {
+    padding: 10px;
+    background-color: #FCD842;
+    position: absolute;
+    bottom: 30px;
+}

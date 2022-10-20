@@ -1,0 +1,51 @@
+.cardImg {
+    height: 400px;
+    width: 100%;
+    top: 30px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.card:hover {
+    transform: rotateY(5);
+}
+@media only screen and (max-width: 600px) {
+    .card {
+        margin-top: 35px;
+    }
+}
+
+.cardBody {
+    text-align: center;
+    padding: 25 px 40px;
+    top: 70px;
+    color: white;
+    position: absolute;
+    
+}
+
+@media only screen and (max-width: 600px) {
+    .cardBody {
+        text-align: center;
+        padding: 25 px 40px;
+        top: 70px;
+        color: white;
+        position: absolute;
+        opacity: 1;
+    }
+
+    .cardBody:hover{
+        transform: rotate(360deg);
+    }
+}
+
+.cardBody:hover {
+    opacity: 1;
+    transition: 0.5s;
+    cursor: pointer;
+    color: rgb(255, 208, 0);
+}
+
+.cardBody img {
+    height: 50px;
+    height: 40px;
+}

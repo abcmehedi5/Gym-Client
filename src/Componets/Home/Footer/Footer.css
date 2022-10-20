@@ -1,0 +1,9 @@
+.footerContainer{
+    background-color: #171426;
+   height: 100%;
+    padding: 30px 15px;
+    line-height: 30px;
+}
+li{
+    list-style: none;
+}

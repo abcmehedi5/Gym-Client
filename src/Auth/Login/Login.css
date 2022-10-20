@@ -1,0 +1,19 @@
+.LoginWrapper{
+    background:linear-gradient(0deg, rgba(44, 36, 65, 0.8), rgba(40, 38, 66, 0.8)),url('../../Image/bg.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.formContainerLogin{
+    padding: 20px;
+    width: 450px;
+    height: 100vh;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.formContainer input{
+    padding: 10px;
+}

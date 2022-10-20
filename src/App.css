@@ -1,10 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital@1&display=swap');
+
+/* font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif; */
 .App {
   text-align: center;
+}
+
+.myFont {
+  font-family: 'Bebas Neue', cursive;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.btn-brand {
+  padding: 6px 40px;
+  border: none;
+  background-color: #FCD842;
+  border-radius: 2;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.btn-brand:active {
+  color: white;
+  background-color: orange;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -32,6 +55,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

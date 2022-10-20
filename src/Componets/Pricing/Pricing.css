@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital@1&display=swap');
+
+/* font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif; */
+.pricingImg {
+    height: 500px;
+    width: 100%;
+}
+.pricingInfo{
+    position: relative;
+}
+.pricingBody {
+    padding: 25px 40px;
+    color: white;
+    
+    
+}
+.pricingBody ul li{
+    line-height: 30px;
+}
+.price{
+    color: rgb(255, 204, 36);
+    font-size: 90px;
+}
+
+.priceBg img{
+    opacity: 0.5;
+}
+.priceBg{
+    background-color: black;
+}

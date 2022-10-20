@@ -1,0 +1,18 @@
+.classCard img{
+    height: 300px;
+}
+.classCard{
+    position: relative;
+}
+
+
+.classTitle{
+    background-color: #FCD842;
+    color: black;
+    font-size: 25px;
+    height: 50px;
+    width: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

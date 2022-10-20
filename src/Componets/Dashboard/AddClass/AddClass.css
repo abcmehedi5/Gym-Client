@@ -1,0 +1,14 @@
+
+.classPhoto img{
+    border-radius: 20px;
+    width: 100px;
+    height: 100px;
+}
+tbody{
+    background-color: rgb(240, 248, 255);
+}
+.modal-body img{
+    width: 300px;
+    margin: auto;
+    border-radius: 20px;
+}

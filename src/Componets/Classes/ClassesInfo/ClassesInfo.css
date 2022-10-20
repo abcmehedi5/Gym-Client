@@ -1,0 +1,21 @@
+.classesInfo img{
+    height: 370px;
+    width: 600px;
+}
+.scheduletitle{
+    font-size: 50px;
+    letter-spacing: 5px;
+}
+.joinUs{
+    position: relative;
+}
+.btns{
+    position: absolute;
+    right: 20%;
+    top: 50%;
+}
+
+.classesList li{
+    font-weight: bold;
+    line-height: 40px;
+}

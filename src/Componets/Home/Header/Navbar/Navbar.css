@@ -1,0 +1,14 @@
+.logo{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navlist a{
+    color: white;
+    font-size: 17px;
+    font-weight: 500;
+    margin-right: 10px;
+    text-decoration: none;
+}
+.navlist a:hover{
+    color: yellow;
+}

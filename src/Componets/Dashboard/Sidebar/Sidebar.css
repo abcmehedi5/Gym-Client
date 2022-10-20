@@ -1,0 +1,25 @@
+.sidebarContainer{
+    background-color: rgb(22, 24, 49);
+    height: 100vh;
+    position: fixed;
+    border-right: 6px solid orange;
+    
+  
+}
+.sidebarContainer a{
+    background: none;
+    border: none;
+    line-height: 40px;
+    padding-right: 60px;
+    color: white;
+}
+.sidebarContainer i{
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+hr{
+    background-color: white;
+    padding: 3px;
+    color: rgb(254, 255, 255);
+}

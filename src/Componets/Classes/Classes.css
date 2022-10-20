@@ -1,0 +1,12 @@
+.classHead {
+    position: relative;
+}
+
+.title {
+    color: white;
+    font-size: 50px;
+    /* position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%); */
+}
