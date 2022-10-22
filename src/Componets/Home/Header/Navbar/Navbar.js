@@ -40,17 +40,11 @@ const Navbar = () => {
               <Link to="/home">
                 <a className="nav-link">Home</a>
               </Link>
-              <Link to="/services">
-                <a className="nav-link">Services</a>
-              </Link>
               <Link to="/classes">
                 <a className="nav-link">Our Classes</a>
               </Link>
               <Link to="/pricing">
                 <a className="nav-link">Pricing</a>
-              </Link>
-              <Link to="/contact">
-                <a className="nav-link">Contact Us</a>
               </Link>
               {isAdmin && (
                 <Link to="/dashboard">
